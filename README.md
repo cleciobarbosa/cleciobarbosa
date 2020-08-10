@@ -35,7 +35,11 @@
 
 ---
 
-<img align="left" alt="cleciobarbosa's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=cleciobarbosa&show_icons=true&hide_border=true" />
+<img align="left" alt="cleciobarbosa's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=cleciobarbosa&show_icons=true&hide_border=true&theme=dark" />
+
+<a href="https://github.com/cleciobarbosa">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cleciobarbosa&theme=dark&hide_langs_below=1" />
+</a>
 
 [desenfila]: https://desenfila.com
 [website]: http://cleciobarbosa.com
